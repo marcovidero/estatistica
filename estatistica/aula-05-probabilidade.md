@@ -18,7 +18,11 @@ Características de um experimento aleatório: a\) Poderá ser repetido um grand
 
 A **Teoria da Probabilidade** é utilizada para descrever matematicamente experimentos cujos resultados não podem ser completamente pré-determinados, ou seja, visa definir um modelo matemático que seja adequado à descrição e interpretação de fenômenos aleatórios.
 
-**Modelo probabilístico** é definido por: a\) Um espaço amostral $\(\Omega\)$; b\) Uma probabilidade, $P\(.\)$, para cada ponto amostral.
+**Modelo probabilístico** é definido por:
+
+a\) Um espaço amostral $$\( \Omega \)$$ ;
+
+b\) Uma probabilidade, $$P\(.\)$$ , para cada ponto amostral.
 
 **Espaço amostral** $\(\Omega\)$: conjunto de todos os resultados possíveis de um experimento aleatório. Exemplos de experimentos aleatórios e seus respectivos espaços amostrais:
 
@@ -38,9 +42,9 @@ Ao realizar um experimento aleatório diz-se que o evento A ocorreu se o resulta
 
 **Exemplo**: Jogar um dado e observar a face superior.
 
-$\Omega = {1, 2, 3, 4, 5, 6}$
+$$\Omega = {1, 2, 3, 4, 5, 6}$$
 
-* Evento $B$: representa sair face par $\Rightarrow B = {2, 4, 6}$
+* Evento $$B$$: representa sair face par $$\Rightarrow B = {2, 4, 6}$$
 * Evento $C$: representa sair uma face ímpar $\Rightarrow C = {1, 3, 5}$
 * Evento $D$: representa sair uma face maior que 3 $\Rightarrow D = {4, 5, 6}$
 * Evento $E$: representa sair face 1 $\Rightarrow E = {1}$
